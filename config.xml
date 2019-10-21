@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+
+        <className>com.company.Visitor.FADepartment</className>
+<!--    &lt;!&ndash;RefinedAbstraction&ndash;&gt;-->
+<!--    <className>com.company.Command.HelpCommand</className>-->
+<!--    &lt;!&ndash;ConcreteImplementor&ndash;&gt;-->
+<!--    <className>com.company.Command.MinimizeCommand</className>-->
+</config>
